@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+.ipynb_checkpoints
+.txt
+*.docx
+*.pdf
+*.bak
+*.Rmd
+*.Rhistory
+Tables_brutes/
+Neo4j/
+Paul/
