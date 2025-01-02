@@ -1,11 +1,12 @@
-# Mobilite
+# Mobilité en France
+
+Ce projet étudie la mobilité en France. Il contient l'extraction, le traitement et l'analyse de données et a été réalisé dans le cadre de la formation de mastère spécialisé "Big Data Engineer" de l'Université de Technologies de Troyes.  
 
 Ce projet a été réalisé par:  
     - Paul Lelégard  
     - Cheick Oumar Gueye  
     - Nicolas Morand   
-dans le cadre de la formation de mastère spécialisé "Big Data Engineer" de l'Université de Technologies de Troyes.  
-Dans ce projet, plusieurs sources de données ont été utilisées, puis traité et enfin analysées concernant la mobilité en France.  
+
 
 <img src="2024-03-05-Présentation_Fil_Rouge_Mobilité_slides/Slide1.JPG" width="1900"/>
 <img src="2024-03-05-Présentation_Fil_Rouge_Mobilité_slides/Slide2.JPG" width="1900"/>
